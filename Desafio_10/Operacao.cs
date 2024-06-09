@@ -14,8 +14,9 @@ class Operacao {
 
         Console.WriteLine("");
 
-        Console.WriteLine("Os operadores são: + (soma) \n" +
-        "- (menos) \n" +
+        Console.WriteLine("Os operadores são: \n" +
+        "+ (soma) \n" +
+        "- (subtração) \n" +
         "/ (divisão) \n" +
         "x (multiplicação)");
 
